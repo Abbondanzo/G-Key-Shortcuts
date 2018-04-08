@@ -1,0 +1,1 @@
+%~dp0\nircmd.exe setdefaultsounddevice "Echo" 0 && %~dp0\nircmd.exe setdefaultsounddevice "Echo" 2

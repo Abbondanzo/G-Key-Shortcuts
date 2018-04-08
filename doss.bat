@@ -1,0 +1,1 @@
+%~dp0\nircmd.exe setdefaultsounddevice "DOSS Headphones" 0 && %~dp0\nircmd.exe setdefaultsounddevice "DOSS Headset" 2
