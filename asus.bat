@@ -1,0 +1,1 @@
+%~dp0\nircmd.exe setdefaultsounddevice "ASUS VS247" 0 && %~dp0\nircmd.exe setdefaultsounddevice "ASUS VS247" 2
