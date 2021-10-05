@@ -1,0 +1,1 @@
+%~dp0\nircmd.exe setdefaultsounddevice "27GL850" 0 && %~dp0\nircmd.exe setdefaultsounddevice "27GL850" 2
